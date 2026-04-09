@@ -16,7 +16,7 @@ I am the founder of **Coco Entertainment**, an unofficial software venture where
 ### 📺 Content Creation
 I run two distinct YouTube channels to share my passions with different audiences:
 
-* **[CocoGames](https://youtube.com/CocoGames_YT)**
+* **[CocoGames](https://youtube.com/@CocoGames_YT)**
     * **Language:** German
     * **Content:** Gaming videos and community-focused entertainment. I edit all my videos myself to ensure high quality.
 
